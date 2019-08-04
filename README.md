@@ -80,4 +80,4 @@ This project is set up to use [jest](https://facebook.github.io/jest/) for tests
 
 ## Contribute
 
-TODO
+TODO# etherum-wallet-react-native
