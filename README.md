@@ -1,4 +1,4 @@
-# Ethereum Wallet [![Build Status](https://travis-ci.org/fmsouza/ethereum-wallet.svg?branch=master)](https://travis-ci.org/fmsouza/ethereum-wallet)
+# # Etherum-wallet-react-native-shopping-cart
 
 This project is a Ethereum Wallet built on top of ReactNative.
 
@@ -80,5 +80,4 @@ This project is set up to use [jest](https://facebook.github.io/jest/) for tests
 
 ## Contribute
 
-TODO# etherum-wallet-react-native
-# etherum-wallet-react-native
+
